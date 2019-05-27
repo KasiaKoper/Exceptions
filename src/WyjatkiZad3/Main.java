@@ -6,6 +6,8 @@ public class Main {
 
         int[] array1 = {1, 2, 3, 4, 5};
 
+        int[] array2={4526,45,87};
+
         try {
             System.out.println(plusFive(array1, 6));
         } catch (IndexOutOfBoundsException e) {
